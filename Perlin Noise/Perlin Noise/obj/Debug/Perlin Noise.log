@@ -1,0 +1,42 @@
+﻿  main.cpp
+  ofApp.cpp
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+c:\users\fonex\desktop\creative computing year 2\creative projects 2\lab 5 workshop 2 3d environment\perlin noise\perlin noise\src\ofapp.cpp(95): warning C4996: 'ofVideoPlayer::getTextureReference': Use getTexture
+  c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\video\ofvideoplayer.h(112): note: see declaration of 'ofVideoPlayer::getTextureReference'
+c:\users\fonex\desktop\creative computing year 2\creative projects 2\lab 5 workshop 2 3d environment\perlin noise\perlin noise\src\ofapp.cpp(97): warning C4996: 'ofVideoPlayer::getTextureReference': Use getTexture
+  c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\video\ofvideoplayer.h(112): note: see declaration of 'ofVideoPlayer::getTextureReference'
+c:\users\fonex\desktop\creative computing year 2\creative projects 2\lab 5 workshop 2 3d environment\perlin noise\perlin noise\src\ofapp.cpp(101): warning C4996: 'ofVideoPlayer::getTextureReference': Use getTexture
+  c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\video\ofvideoplayer.h(112): note: see declaration of 'ofVideoPlayer::getTextureReference'
+c:\users\fonex\desktop\creative computing year 2\creative projects 2\lab 5 workshop 2 3d environment\perlin noise\perlin noise\src\ofapp.cpp(105): warning C4996: 'ofVideoPlayer::getTextureReference': Use getTexture
+  c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\video\ofvideoplayer.h(112): note: see declaration of 'ofVideoPlayer::getTextureReference'
+c:\users\fonex\desktop\creative computing year 2\creative projects 2\lab 5 workshop 2 3d environment\perlin noise\perlin noise\src\ofapp.cpp(146): warning C4996: 'ofNode::tilt': Use the Deg/Rad version
+  c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\3d\ofnode.h(249): note: see declaration of 'ofNode::tilt'
+c:\users\fonex\desktop\creative computing year 2\creative projects 2\lab 5 workshop 2 3d environment\perlin noise\perlin noise\src\ofapp.cpp(149): warning C4996: 'ofNode::tilt': Use the Deg/Rad version
+  c:\users\fonex\documents\of_v0.10.1_vs2017_release\libs\openframeworks\3d\ofnode.h(249): note: see declaration of 'ofNode::tilt'
+     Creating library bin\Perlin Noise_debug.lib and object bin\Perlin Noise_debug.exp
+  Perlin Noise.vcxproj -> C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\Perlin Noise_debug.exe
+  
+  	                   2	C:\Users\Fonex\Documents\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\fmodexL.dll
+  	  *EXTRA File 		 6018560	C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\FreeImage.dll
+  	    New File  		 1503232	C:\Users\Fonex\Documents\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\fmodex64.dll
+  	    New File  		 1552384	C:\Users\Fonex\Documents\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\fmodexL64.dll
+  
+  	                   1	C:\Users\Fonex\Documents\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\fmodex.dll
+  	  *EXTRA File 		 1503232	C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\fmodex64.dll
+  	  *EXTRA File 		 1312768	C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\fmodexL.dll
+  	  *EXTRA File 		 1552384	C:\Users\Fonex\Desktop\Creative Computing Year 2\Creative Projects 2\Lab 5 Workshop 2 3D Environment\Perlin Noise\Perlin Noise\bin\fmodexL64.dll
+  	    Older     		 6942208	C:\Users\Fonex\Documents\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\x64\FreeImage.dll
